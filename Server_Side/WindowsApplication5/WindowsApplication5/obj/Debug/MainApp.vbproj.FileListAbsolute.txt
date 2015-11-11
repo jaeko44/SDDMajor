@@ -1,0 +1,105 @@
+C:\Users\Jonathan\Desktop\SDD\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.dashboard.resources
+C:\Users\Jonathan\Desktop\SDD\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.dashboard_done.resources
+C:\Users\Jonathan\Desktop\SDD\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.flatui.resources
+C:\Users\Jonathan\Desktop\SDD\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form1.resources
+C:\Users\Jonathan\Desktop\SDD\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.login.resources
+C:\Users\Jonathan\Desktop\SDD\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.MainWindow.resources
+C:\Users\Jonathan\Desktop\SDD\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+C:\Users\Jonathan\Desktop\SDD\WindowsApplication5\WindowsApplication5\obj\Debug\MainApp.vbproj.GenerateResource.Cache
+C:\Users\Jonathan\Desktop\SDD\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+C:\Users\Jonathan\Desktop\SDD\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+C:\Users\Jonathan\Desktop\SDD\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.pdb
+C:\Users\Jonathan\Desktop\SDD\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe.config
+C:\Users\Jonathan\Desktop\SDD\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe.manifest
+C:\Users\Jonathan\Desktop\SDD\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.application
+C:\Users\Jonathan\Desktop\SDD\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+C:\Users\Jonathan\Desktop\SDD\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+C:\Users\Jonathan\Desktop\SDD\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+C:\Users\Jonathan\Desktop\SDD\WindowsApplication5\WindowsApplication5\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jonathan\Desktop\SDD\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.exe.manifest
+C:\Users\Jonathan\Desktop\SDD\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.application
+C:\Users\Jonathan\Desktop\SDD\WindowsApplication5\WindowsApplication5\obj\Debug\MainApp.vbprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\SDD\WindowsApplication5\WindowsApplication5\bin\Debug\ZedGraph.dll
+C:\Users\Jonathan\Desktop\SDD\WindowsApplication5\WindowsApplication5\bin\Debug\TcpComm.dll
+C:\Users\Jonathan\Desktop\SDD\WindowsApplication5\WindowsApplication5\bin\Debug\TcpComm.pdb
+C:\Users\Jonathan\Desktop\SDD\WindowsApplication5\WindowsApplication5\bin\Debug\TcpComm.xml
+C:\Users\Jonathan\Desktop\SDD\WindowsApplication5\WindowsApplication5\bin\Debug\DET-Control-Machines.exe.config
+E:\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe.config
+E:\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+E:\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+E:\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.pdb
+E:\WindowsApplication5\WindowsApplication5\obj\Debug\MainApp.vbprojResolveAssemblyReference.cache
+E:\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.flatui.resources
+E:\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form1.resources
+E:\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.login.resources
+E:\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.MainWindow.resources
+E:\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+E:\WindowsApplication5\WindowsApplication5\obj\Debug\MainApp.vbproj.GenerateResource.Cache
+E:\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe.manifest
+E:\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.application
+E:\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+E:\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+E:\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+E:\WindowsApplication5\WindowsApplication5\bin\Debug\TcpComm.dll
+E:\WindowsApplication5\WindowsApplication5\bin\Debug\TcpComm.pdb
+E:\WindowsApplication5\WindowsApplication5\bin\Debug\TcpComm.xml
+E:\WindowsApplication5\WindowsApplication5\bin\Debug\Newtonsoft.Json.pdb
+E:\WindowsApplication5\WindowsApplication5\bin\Debug\Newtonsoft.Json.xml
+E:\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.exe.manifest
+E:\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.application
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe.config
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\obj\Debug\MainApp.vbprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.flatui.resources
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form1.resources
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.login.resources
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.MainWindow.resources
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\obj\Debug\MainApp.vbproj.GenerateResource.Cache
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\AsyncUnbuffWriter.vb
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\Client.vb
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\Server.vb
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\Utilities.vb
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\Documentation.txt
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\flatui.resx
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\Form1.resx
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\login.resx
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\MainWindow.resx
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\My Project\Resources.resx
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\ClientConn.vb
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\clsAsyncUnbufferWriter.vb
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\CpuMonitor.vb
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\flatui.Designer.vb
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\flatui.vb
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\Form1.vb
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\Form1.Designer.vb
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\login.Designer.vb
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\login.vb
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\MainWindow.Designer.vb
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\MainWindow.vb
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\modules.vb
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\My Project\AssemblyInfo.vb
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\My Project\Application.Designer.vb
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\My Project\Resources.Designer.vb
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\My Project\Settings.Designer.vb
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\ScaleAssistant.vb
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\My Project\app.manifest
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\My Project\Application.myapp
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\My Project\Settings.settings
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\App.config
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5_TemporaryKey.pfx
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe.manifest
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.application
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\TcpComm.dll
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\ZedGraph.dll
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\TcpComm.pdb
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\bin\Debug\TcpComm.xml
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.TrustInfo.xml
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.exe.manifest
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.application
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+C:\Users\Jonathan\Desktop\New folder\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.pdb

@@ -1,0 +1,16 @@
+C:\Users\Jonathan\Downloads\TcpCommExampleProjectV3.91\TcpComm\bin\Debug\TcpComm.dll
+C:\Users\Jonathan\Downloads\TcpCommExampleProjectV3.91\TcpComm\bin\Debug\TcpComm.pdb
+C:\Users\Jonathan\Downloads\TcpCommExampleProjectV3.91\TcpComm\bin\Debug\TcpComm.xml
+C:\Users\Jonathan\Downloads\TcpCommExampleProjectV3.91\TcpComm\obj\Debug\TcpComm.Resources.resources
+C:\Users\Jonathan\Downloads\TcpCommExampleProjectV3.91\TcpComm\obj\Debug\TcpComm.vbproj.GenerateResource.Cache
+C:\Users\Jonathan\Downloads\TcpCommExampleProjectV3.91\TcpComm\obj\Debug\TcpComm.dll
+C:\Users\Jonathan\Downloads\TcpCommExampleProjectV3.91\TcpComm\obj\Debug\TcpComm.xml
+C:\Users\Jonathan\Downloads\TcpCommExampleProjectV3.91\TcpComm\obj\Debug\TcpComm.pdb
+C:\Users\Jonathan\Downloads\12andfuckoff\TcpComm\bin\Debug\TcpComm.dll
+C:\Users\Jonathan\Downloads\12andfuckoff\TcpComm\bin\Debug\TcpComm.pdb
+C:\Users\Jonathan\Downloads\12andfuckoff\TcpComm\bin\Debug\TcpComm.xml
+C:\Users\Jonathan\Downloads\12andfuckoff\TcpComm\obj\Debug\TcpComm.Resources.resources
+C:\Users\Jonathan\Downloads\12andfuckoff\TcpComm\obj\Debug\TcpComm.vbproj.GenerateResource.Cache
+C:\Users\Jonathan\Downloads\12andfuckoff\TcpComm\obj\Debug\TcpComm.dll
+C:\Users\Jonathan\Downloads\12andfuckoff\TcpComm\obj\Debug\TcpComm.xml
+C:\Users\Jonathan\Downloads\12andfuckoff\TcpComm\obj\Debug\TcpComm.pdb

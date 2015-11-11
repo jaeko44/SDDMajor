@@ -1,0 +1,70 @@
+{
+  "servers": [
+    {
+      "server_id": 1,
+      "isOnline": true,
+      "serverType": "Windows 2008 R2",
+      "connection": {"hostname": "vb01.det.edu.au", ip_address":"168.114.16.42","auth_id":"303759734-8","port":"9000"}
+    },
+    {
+      "server_id": 2,
+      "isOnline": true,
+      "serverType": "Windows 2008 R2",
+      "connection": {"hostname": "vb02.det.edu.au","ip_address":"128.76.194.167","auth_id":"870814423-0","port":"1"}
+    },
+    {
+      "server_id": 3,
+      "isOnline": true,
+      "serverType": "Windows 2008 R2",
+      "connection": {"hostname": "vb03.det.edu.au",ip_address":"225.181.146.61","auth_id":"342741961-4","port":"3709"}
+    },
+    {
+      "server_id": 4,
+      "isOnline": true,
+      "serverType": "Windows 2008 R2",
+      "connection":{"hostname": "vb04.det.edu.au","ip_address":"73.2.135.91","auth_id":"657370343-X","port":"070"}
+    },
+    {
+      "server_id": 5,
+      "isOnline": false,
+      "serverType": "Windows 2008 R2",
+      "connection": {"hostname": "vb05.det.edu.au","ip_address":"165.228.229.182","auth_id":"973572950-4","port":"62317"}
+    },
+    {
+      "server_id": 6,
+      "isOnline": false,
+      "serverType": "Windows 2008 R2",
+      "connection": {"hostname": "vb06.det.edu.au","ip_address":"34.32.51.86","auth_id":"051973457-2","port":"46110"}
+    },
+    {
+      "server_id": 7,
+      "isOnline": false,
+      "serverType": "Windows 2008 R2",
+      "connection": {"hostname": "vb07.det.edu.au","ip_address":"55.16.136.115","auth_id":"462013007-9","port":"58754"}
+    },
+    {
+      "server_id": 8,
+      "isOnline": false,
+      "serverType": "Windows 2008 R2",
+      "connection": {"hostname": "vb08.det.edu.au","ip_address":"172.222.65.48","auth_id":"322037950-8","port":"2562"}
+    },
+    {
+      "server_id": 9,
+      "isOnline": false,
+      "serverType": "Windows 2008 R2",
+      "connection": {"hostname": "vb09.det.edu.au","ip_address":"22.64.88.27","auth_id":"452654011-0","port":"1911"}
+    },
+    {
+      "server_id": 10,
+      "isOnline": false,
+      "serverType": "Windows 2008 R2",
+      "connection": {"hostname": "vb10.det.edu.au","ip_address":"247.113.56.61","auth_id":"742667916-0","port":"274"}
+    }
+  ],
+  "profile": {
+    "fname": "Jonathan",
+    "lname": "Philipos",
+    "email": "jonathan.philipos@pcmasterrace.com",
+    "hashedPassword": "40akdl23"
+  }
+}

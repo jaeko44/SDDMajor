@@ -1,0 +1,8 @@
+﻿ Movement Variables: 
+ {
+ Movement Variables handle the movement of the application as I am using a BORDERLess Form instead - This means that otherwise there is no handle for dragging the
+ application
+ }
+Documentation Name: 
+ {
+ }

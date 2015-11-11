@@ -1,0 +1,36 @@
+C:\Users\Jonathan\Downloads\TcpCommExampleProjectV3.91\TcpCommExampleProject\bin\Debug\TcpCommExampleProject.exe.config
+C:\Users\Jonathan\Downloads\TcpCommExampleProjectV3.91\TcpCommExampleProject\bin\Debug\TcpCommExampleProject.exe
+C:\Users\Jonathan\Downloads\TcpCommExampleProjectV3.91\TcpCommExampleProject\bin\Debug\TcpCommExampleProject.pdb
+C:\Users\Jonathan\Downloads\TcpCommExampleProjectV3.91\TcpCommExampleProject\bin\Debug\TcpCommExampleProject.xml
+C:\Users\Jonathan\Downloads\TcpCommExampleProjectV3.91\TcpCommExampleProject\bin\Debug\TcpComm.dll
+C:\Users\Jonathan\Downloads\TcpCommExampleProjectV3.91\TcpCommExampleProject\bin\Debug\TcpComm.pdb
+C:\Users\Jonathan\Downloads\TcpCommExampleProjectV3.91\TcpCommExampleProject\bin\Debug\TcpComm.xml
+C:\Users\Jonathan\Downloads\TcpCommExampleProjectV3.91\TcpCommExampleProject\obj\Debug\TcpCommExampleProject.vbprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Downloads\TcpCommExampleProjectV3.91\TcpCommExampleProject\obj\Debug\WindowsApplication1.frmClient.resources
+C:\Users\Jonathan\Downloads\TcpCommExampleProjectV3.91\TcpCommExampleProject\obj\Debug\WindowsApplication1.frmLatViewer.resources
+C:\Users\Jonathan\Downloads\TcpCommExampleProjectV3.91\TcpCommExampleProject\obj\Debug\WindowsApplication1.frmServer.resources
+C:\Users\Jonathan\Downloads\TcpCommExampleProjectV3.91\TcpCommExampleProject\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Jonathan\Downloads\TcpCommExampleProjectV3.91\TcpCommExampleProject\obj\Debug\TcpCommExampleProject.vbproj.GenerateResource.Cache
+C:\Users\Jonathan\Downloads\TcpCommExampleProjectV3.91\TcpCommExampleProject\obj\Debug\TcpCommExampleProject.exe
+C:\Users\Jonathan\Downloads\TcpCommExampleProjectV3.91\TcpCommExampleProject\obj\Debug\TcpCommExampleProject.xml
+C:\Users\Jonathan\Downloads\TcpCommExampleProjectV3.91\TcpCommExampleProject\obj\Debug\TcpCommExampleProject.pdb
+C:\Users\Jonathan\Downloads\12andfuckoff\TcpCommExampleProject\bin\Debug\TcpCommExampleProject.exe.config
+C:\Users\Jonathan\Downloads\12andfuckoff\TcpCommExampleProject\obj\Debug\TcpCommExampleProject.exe
+C:\Users\Jonathan\Downloads\12andfuckoff\TcpCommExampleProject\obj\Debug\TcpCommExampleProject.xml
+C:\Users\Jonathan\Downloads\12andfuckoff\TcpCommExampleProject\obj\Debug\TcpCommExampleProject.pdb
+C:\Users\Jonathan\Downloads\12andfuckoff\TcpCommExampleProject\bin\Debug\TcpCommExampleProject.exe
+C:\Users\Jonathan\Downloads\12andfuckoff\TcpCommExampleProject\bin\Debug\TcpComm.dll
+C:\Users\Jonathan\Downloads\12andfuckoff\TcpCommExampleProject\bin\Debug\TcpComm.pdb
+C:\Users\Jonathan\Downloads\12andfuckoff\TcpCommExampleProject\bin\Debug\TcpComm.xml
+C:\Users\Jonathan\Downloads\12andfuckoff\TcpCommExampleProject\obj\Debug\TcpCommExampleProject.vbprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Downloads\12andfuckoff\TcpCommExampleProject\obj\Debug\WindowsApplication1.frmClient.resources
+C:\Users\Jonathan\Downloads\12andfuckoff\TcpCommExampleProject\obj\Debug\WindowsApplication1.frmLatViewer.resources
+C:\Users\Jonathan\Downloads\12andfuckoff\TcpCommExampleProject\obj\Debug\WindowsApplication1.frmServer.resources
+C:\Users\Jonathan\Downloads\12andfuckoff\TcpCommExampleProject\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Jonathan\Downloads\12andfuckoff\TcpCommExampleProject\obj\Debug\TcpCommExampleProject.vbproj.GenerateResource.Cache
+C:\Users\Jonathan\Downloads\12andfuckoff\TcpCommExampleProject\bin\Debug\TcpCommExampleProject.pdb
+C:\Users\Jonathan\Downloads\12andfuckoff\TcpCommExampleProject\bin\Debug\TcpCommExampleProject.xml
+C:\Users\Jonathan\Downloads\12andfuckoff\SERVER SIDE\bin\Debug\TcpCommExampleProject.exe.config
+C:\Users\Jonathan\Downloads\12andfuckoff\SERVER SIDE\obj\Debug\TcpCommExampleProject.exe
+C:\Users\Jonathan\Downloads\12andfuckoff\SERVER SIDE\obj\Debug\TcpCommExampleProject.xml
+C:\Users\Jonathan\Downloads\12andfuckoff\SERVER SIDE\obj\Debug\TcpCommExampleProject.pdb

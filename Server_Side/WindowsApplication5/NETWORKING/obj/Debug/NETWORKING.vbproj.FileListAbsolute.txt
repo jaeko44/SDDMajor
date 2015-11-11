@@ -1,0 +1,2 @@
+C:\Users\Jonathan\Desktop\SDD\WindowsApplication5\NETWORKING\obj\Debug\NETWORKING.Resources.resources
+C:\Users\Jonathan\Desktop\SDD\WindowsApplication5\NETWORKING\obj\Debug\NETWORKING.vbproj.GenerateResource.Cache
